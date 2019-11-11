@@ -8,7 +8,7 @@ public class DockerController {
 
     @RequestMapping("/")
     public String index() {
-        return "Hello docker-jenkins";
+        return "Hello jenkins";
     }
 
 }
