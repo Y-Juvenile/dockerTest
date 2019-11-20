@@ -8,7 +8,7 @@ public class DockerController {
 
     @RequestMapping("/")
     public String index() {
-        return "Hello 啦啦啦啦啦了";
+        return "Hello 123";
     }
 
 }
